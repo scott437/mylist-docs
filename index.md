@@ -59,7 +59,7 @@ Pick the streaming service you want to watch it on (if it's available on more th
 
 ## Your List
 
-The **MyList** tab shows everything you've saved. You can view it as a grid or a list, search by title, and filter by media type or service.
+The **MyList** tab shows everything you've saved. You can search by title and filter by media type or service.
 
 Tap any title to open its detail page, where you'll see:
 - Which service it's on and how it's available (subscription, free, ad-supported, rental, or purchase)
