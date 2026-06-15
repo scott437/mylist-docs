@@ -1,18 +1,26 @@
 # StreamQueue Support
 
-StreamQueue is a shared streaming queue and Roku remote utility for households.
+Need help with StreamQueue? Use this page to ask questions, report bugs, request account help, or request privacy/data assistance.
 
 ## Getting Help
 
-For support, questions, bug reports, or privacy requests, contact:
+Contact StreamQueue support by email:
 
-support@sdudley.com
+**Email:** [support@sdudley.com](mailto:support@sdudley.com)
+
+You can use this address for:
+
+- Questions about setting up StreamQueue.
+- Help finding or controlling your Roku.
+- Bug reports or error messages.
+- Account or household sharing questions.
+- Privacy or data requests.
 
 When reporting an issue, please include:
 
 - Your iPhone model and iOS version.
-- Whether you are on your home Wi-Fi network.
 - Your Roku model or Roku TV model, if known.
+- Whether your phone and Roku are on the same Wi-Fi network.
 - What you were trying to do.
 - Any error message shown in StreamQueue.
 
